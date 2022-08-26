@@ -1,0 +1,151 @@
+.page {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+}
+
+.box_1 {
+  height: 1080px;
+  background: url(https://lanhu.oss-cn-beijing.aliyuncs.com/psgad9p4bi1yj4w4w3il0p9rcs6dlrre6j063956bc-6ca9-4711-893a-ce6d2bd9627e) -5px -3px
+    no-repeat;
+  background-size: 1930px 1086px;
+  width: 1920px;
+  position: relative;
+}
+
+.image_1 {
+  width: 1920px;
+  height: 138px;
+}
+
+.section_1 {
+  position: absolute;
+  left: 0;
+  top: 138px;
+  width: 1920px;
+  height: 943px;
+}
+
+.image-wrapper_7 {
+  width: 192px;
+  height: 49px;
+  margin: 21px 0 0 477px;
+}
+
+.image_2 {
+  width: 192px;
+  height: 49px;
+}
+
+.image-wrapper_8 {
+  width: 192px;
+  height: 49px;
+  margin: 14px 0 0 477px;
+}
+
+.image_3 {
+  width: 192px;
+  height: 49px;
+}
+
+.image-wrapper_9 {
+  width: 625px;
+  height: 142px;
+  margin: 138px 0 0 725px;
+}
+
+.image_4 {
+  width: 263px;
+  height: 142px;
+}
+
+.image_5 {
+  width: 208px;
+  height: 112px;
+}
+
+.image-wrapper_10 {
+  width: 244px;
+  height: 56px;
+  margin: 455px 0 19px 957px;
+}
+
+.image_6 {
+  width: 244px;
+  height: 56px;
+}
+
+.image-wrapper_5 {
+  height: 1044px;
+  background: url(https://lanhu.oss-cn-beijing.aliyuncs.com/psmeefggpligcauba0y42waq0610s8zbe94cc629a-71fb-4a9f-88eb-82cefb02a78f)
+    0px 0px no-repeat;
+  background-size: 111px 1074px;
+  width: 111px;
+  position: absolute;
+  left: 1px;
+  top: -102px;
+}
+
+.image_7 {
+  width: 393px;
+  height: 292px;
+  margin: 81px 0 0 48px;
+}
+
+.image_8 {
+  position: absolute;
+  left: 1810px;
+  top: -100px;
+  width: 109px;
+  height: 1042px;
+}
+
+.image-wrapper_6 {
+  height: 416px;
+  background: url(https://lanhu.oss-cn-beijing.aliyuncs.com/pskgkxt5p7inc77g1j20uwvkjlbozk2c3t92b97b71-64ad-4b8e-acfe-99793b7b78b6)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 393px;
+  position: absolute;
+  left: 49px;
+  top: 508px;
+}
+
+.image_9 {
+  width: 393px;
+  height: 302px;
+  margin-top: -228px;
+}
+
+.image_10 {
+  position: absolute;
+  left: 1480px;
+  top: 280px;
+  width: 393px;
+  height: 292px;
+}
+
+.image_11 {
+  position: absolute;
+  left: 1480px;
+  top: 583px;
+  width: 393px;
+  height: 341px;
+}
+
+.image_12 {
+  position: absolute;
+  left: 1322px;
+  top: -21px;
+  width: 558px;
+  height: 292px;
+}
+
+.image_13 {
+  position: absolute;
+  left: 736px;
+  top: 867px;
+  width: 244px;
+  height: 69px;
+}
